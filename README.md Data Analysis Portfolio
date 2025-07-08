@@ -1,87 +1,72 @@
-👋 Hi, I'm Iesha Shields
+# 👋 Hi, I’m Iesha Shields  
+### 🧠 Data-Driven Problem Solver | 💼 Healthcare Operations Pro | 📊 Aspiring Data Analyst
 
-I'm a results-driven healthcare professional with a passion for data analytics and a decade of hands-on experience in clinical operations, patient support, and administrative coordination. My journey from managing complex schedules and insurance verification to analyzing data trends is fueled by one mission: to turn healthcare data into smarter decisions and better outcomes.
+I bring **10+ years of experience** improving healthcare workflows, optimizing scheduling systems, and delivering exceptional patient support. Now, I’m channeling that frontline expertise into **data analytics**—with one goal:  
+> **Turn healthcare data into smarter operations, better outcomes, and measurable impact.**
 
-With a strong foundation in Excel and EMR systems, I’m actively building my technical portfolio to break into the world of data analytics—especially where healthcare and data intersect.
+With hands-on skills in Excel, Epic EMR, and insurance systems, I’m building a data portfolio that bridges clinical operations with analytical insight.
 
-💼 Background
+---
 
-🔹 Current Role: Patient Support Assistant – Cardiology at Endeavor Health🔹 Previous Roles: Intake Coordinator, Patient Service Rep, Administrative Assistant🔹 Industry Focus: Healthcare (Cardiology, Psychiatry, Pediatrics)🔹 Core Strengths: Workflow Optimization • Patient Communication • Scheduling Systems • Claims Management
+### 💼 My Healthcare + Data Story
 
-🎓 Education & Certifications
+| 🏥 | **Current Role**: Patient Support Assistant – Cardiology, Endeavor Health |
+|---|-------------------------------------------------------------------------|
+| 🔁 | Past Roles: Intake Coordinator, Administrative Assistant, Patient Service Rep |
+| 🔍 | Industry Focus: Cardiology, Psychiatry, Pediatrics |
+| 🔧 | Core Strengths: Workflow Optimization • Claims Coordination • Scheduling Systems • Patient Engagement |
 
-🎓 MBA in Marketing – Columbia Southern University
+---
 
-🎓 B.S. in Marketing – Columbia Southern University
+### 📚 Education & Certifications
 
-📜 Data Certifications (Coursera):
+🎓 **MBA in Marketing** – Columbia Southern University  
+🎓 **B.S. in Marketing** – Columbia Southern University  
 
-Intro to Data
+📜 **Certifications (Coursera)**  
+- ✅ [Intro to Data](https://coursera.org/verify/RDU55828C9G8)  
+- ✅ [Excel Basics for Data Analysis](https://coursera.org/share/af0f1878cf42a0d51f43abbbb51a74e7)
 
-Excel Basics for Data Analysis
+---
 
-🛠️ Technical Toolbox
+### 🛠️ Technical Toolbox
 
-Excel: Pivot Tables, VLOOKUP, Conditional Formatting, Cleaning & Aggregation
+| Tool | Proficiency |
+|------|-------------|
+| **Excel** | Pivot Tables • VLOOKUP • Conditional Formatting • Cleaning & Aggregation |
+| **SQL** | Beginner – Writing SELECT and JOIN queries (in progress) |
+| **Tableau** | Coming soon – interactive dashboards for patient metrics |
+| **EMR Systems** | Epic EMR, Insurance Verification Platforms |
+| **Others** | Microsoft Office • Google Workspace • Scheduling Tools |
 
-SQL: Writing queries to explore structured datasets (in progress)
+---
 
-Data Visualization: Tableau (coming soon) & Excel charting, Data Vizulation tools 
+### 📊 Featured Projects 
 
-Healthcare Systems: Epic EMR, insurance portals, patient scheduling tools, appointment fulliment rate   
+🚑 **Healthcare Scheduling Insights**  
+Analyze no-show trends and scheduling gaps using Excel and pivot tables.
 
-Other Tools: Microsoft Office Suite, Google Workspace, data entry platforms
+💸 **Billing Accuracy Tracker**  
+Excel dashboard to monitor rejected claims and reimbursement issues.
 
-📊 Projects (Coming Soon to This GitHub)
+📅 **Patient Volume Forecasting**  
+Forecast patient traffic using historical scheduling data.
 
-📈 Healthcare Scheduling InsightsExploring patient appointment trends and no-show rates using Excel
+---
 
-🧾 Billing Accuracy TrackerAn Excel-based model to flag and monitor rejected insurance claims
+### 💡 Why You Should Hire Me
 
-📅 Patient Volume ForecasterPredicting peak clinic hours using historical scheduling data
+✅ **Healthcare-native analyst mindset** — I know how data flows from front desk to finance.  
+✅ **Rooted in real-world experience** — I’ve solved workflow problems daily for 10+ years.  
+✅ **Data-savvy & coachable** — I bring initiative, growth mindset, and attention to detail.  
+✅ **Ready to contribute now** — I’m building the skills to make a measurable impact from Day 1.
 
-🚀 Why Hire Me?
+---
 
-✅ I bring the discipline and detail of clinical operations, combined with the curiosity and creativity of a data analyst-in-training.✅ I understand how healthcare works—from the front desk to the provider's schedule to the billing department.✅ I’m coachable, proactive, and eager to apply my skills in a collaborative, analytical environment.
+### 📬 Let’s Connect
 
-Whether it's helping reduce patient wait times, improve financial reporting, or support providers with real-time data—I'm ready to make data work smarter.
+📧 shieldsiesha@gmail.com  
+📍 Des Plaines, IL  
+🔗 [LinkedIn](https://www.linkedin.com)
 
-📬 Let’s Connect
-
-📧 shieldsiesha@gmail.com📍 Des Plaines, IL🔗 LinkedIn
-
-Thank you for stopping by—let’s build a more efficient, data-powered future together!
-
-
-# 📈 Appointment Data Analysis – Excel Project
-
-This project showcases my data analysis skills using Excel to explore and extract insights from real-world appointment data.
-
-## 🔍 Project Overview
-The dataset contains appointment records used to analyze:
-- Scheduling trends
-- Peak hours
-- No-show patterns
-- Provider workload balance
-
-## 🛠️ Tools Used
-- Microsoft Excel
-  - Pivot Tables
-  - Filters
-  - Charts
-  - Conditional Formatting
-
-## 📁 Files Included
-- `Project Data Analysis AppointmentData.xlsx` — the Excel workbook with raw data and analysis
-- (Optional) `Scheduling_Insights_Report.pdf` — 1-page summary of insights *(can be added)*
-
-## 🏷️ Tags
-`v1.0` `excel-analysis` `appointment-data` `insight-report`
-
-
-## 💼 About Me
-I’m a Junior Data Analyst with a background in healthcare operations and a passion for turning messy data into actionable insights.
-
-📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 Email: your.email@example.com
-
+Thanks for visiting—let’s work together to make **healthcare smarter through data**.
