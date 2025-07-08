@@ -26,9 +26,9 @@ Excel: Pivot Tables, VLOOKUP, Conditional Formatting, Cleaning & Aggregation
 
 SQL: Writing queries to explore structured datasets (in progress)
 
-Data Visualization: Tableau & Excel charting (coming soon)
+Data Visualization: Tableau (coming soon) & Excel charting, Data Vizulation tools 
 
-Healthcare Systems: Epic EMR, insurance portals, patient scheduling tools
+Healthcare Systems: Epic EMR, insurance portals, patient scheduling tools, appointment fulliment rate   
 
 Other Tools: Microsoft Office Suite, Google Workspace, data entry platforms
 
@@ -51,3 +51,37 @@ Whether it's helping reduce patient wait times, improve financial reporting, or 
 📧 shieldsiesha@gmail.com📍 Des Plaines, IL🔗 LinkedIn
 
 Thank you for stopping by—let’s build a more efficient, data-powered future together!
+
+
+# 📈 Appointment Data Analysis – Excel Project
+
+This project showcases my data analysis skills using Excel to explore and extract insights from real-world appointment data.
+
+## 🔍 Project Overview
+The dataset contains appointment records used to analyze:
+- Scheduling trends
+- Peak hours
+- No-show patterns
+- Provider workload balance
+
+## 🛠️ Tools Used
+- Microsoft Excel
+  - Pivot Tables
+  - Filters
+  - Charts
+  - Conditional Formatting
+
+## 📁 Files Included
+- `Project Data Analysis AppointmentData.xlsx` — the Excel workbook with raw data and analysis
+- (Optional) `Scheduling_Insights_Report.pdf` — 1-page summary of insights *(can be added)*
+
+## 🏷️ Tags
+`v1.0` `excel-analysis` `appointment-data` `insight-report`
+
+
+## 💼 About Me
+I’m a Junior Data Analyst with a background in healthcare operations and a passion for turning messy data into actionable insights.
+
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile)  
+📧 Email: your.email@example.com
+
